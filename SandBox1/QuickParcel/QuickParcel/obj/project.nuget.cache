@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B+QzcqtvrW0=",
+  "dgSpecHash": "l1GKq+SaUAc=",
   "success": true,
   "projectFilePath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\QuickParcel.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\hazem\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hazem\\.nuget\\packages\\azure.identity\\1.11.0\\azure.identity.1.11.0.nupkg.sha512",
     "C:\\Users\\hazem\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
-    "C:\\Users\\hazem\\.nuget\\packages\\bootstrapblazor\\8.4.2\\bootstrapblazor.8.4.2.nupkg.sha512",
+    "C:\\Users\\hazem\\.nuget\\packages\\bootstrapblazor\\8.4.3\\bootstrapblazor.8.4.3.nupkg.sha512",
     "C:\\Users\\hazem\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hazem\\.nuget\\packages\\javascriptengineswitcher.core\\3.1.0\\javascriptengineswitcher.core.3.1.0.nupkg.sha512",
     "C:\\Users\\hazem\\.nuget\\packages\\jspool\\4.0.0\\jspool.4.0.0.nupkg.sha512",

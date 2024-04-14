@@ -37,9 +37,14 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         @* privacy *@
-                    </ul>
 
-                    @* search *@
+                        @* products *@
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                        </li>
+                        @* products *@
+
+                    </ul>
                     @* search *@
                     <form class="form-inline container-fluid">
                         <div class="input-group">
@@ -49,8 +54,6 @@
                             </div>
                         </div>
                     </form>
-                    @* search *@
-
                     @* search *@
 
                     <partial name="_LoginPartial" />

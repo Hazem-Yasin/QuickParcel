@@ -3,11 +3,15 @@ using Microsoft.EntityFrameworkCore;
 using QuickParcel.Data;
 
 var builder = WebApplication.CreateBuilder(args);
-
+var StoreContextConnection = builder.Configuration.GetConnectionString("StoreContextConnection");
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
+
+builder.Services.AddDbContext<StoreContext>(options => options.UseSqlServer(StoreContextConnection));
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
@@ -28,7 +32,18 @@ else
     app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var context = services.GetRequiredService<StoreContext>();
+    //context.Database.EnsureCreated();
+    DbInitializer.Initialize(context);
+}
+
+
+
+
+    app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();

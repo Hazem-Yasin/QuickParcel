@@ -64,7 +64,7 @@
             },
             "BootstrapBlazor": {
               "target": "Package",
-              "version": "[8.4.2, )"
+              "version": "[8.4.3, )"
             },
             "Microsoft.AspNet.Razor": {
               "target": "Package",
@@ -90,6 +90,10 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.4, )"
@@ -99,6 +103,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Microsoft.SqlServer.Server": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

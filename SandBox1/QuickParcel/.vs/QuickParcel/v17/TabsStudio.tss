@@ -2,7 +2,7 @@
 <ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ArrayOfArrayOfString>
     <ArrayOfString>
-      <string>AppCapabilitiesQuickParcel\QuickParcel.csproj</string>
+      <string>C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\SandBox1\QuickParcel\QuickParcel\Views\Home\Index.cshtml</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>
