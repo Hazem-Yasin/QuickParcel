@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickParcel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c90f9351df6c42d341a5923aab0f61374d5e9d62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f11883c0556fffd540acb7266fcab701605e59bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickParcel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickParcel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

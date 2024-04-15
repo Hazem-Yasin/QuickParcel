@@ -11,15 +11,17 @@
           "Angular.UI.Bootstrap": "2.5.0",
           "AngularJS.Core": "1.8.2",
           "Azure.Identity": "1.11.0",
-          "BootstrapBlazor": "8.4.2",
+          "BootstrapBlazor": "8.4.3",
           "Microsoft.AspNet.Razor": "3.3.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.4",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
           "Microsoft.AspNetCore.Identity.UI": "8.0.4",
           "Microsoft.AspNetCore.Razor": "2.2.0",
           "Microsoft.AspNetCore.Razor.Runtime": "2.2.0",
+          "Microsoft.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.4",
+          "Microsoft.SqlServer.Server": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
           "React.AspNet": "5.2.12",
           "React.Core": "5.2.12",
@@ -76,7 +78,7 @@
         }
       },
       "bootstrap/5.3.3": {},
-      "BootstrapBlazor/8.4.2": {
+      "BootstrapBlazor/8.4.3": {
         "dependencies": {
           "Microsoft.AspNetCore.Components.Authorization": "8.0.0",
           "Microsoft.AspNetCore.Components.Web": "8.0.0",
@@ -87,8 +89,8 @@
         },
         "runtime": {
           "lib/net8.0/BootstrapBlazor.dll": {
-            "assemblyVersion": "8.4.2.0",
-            "fileVersion": "8.4.2.0"
+            "assemblyVersion": "8.4.3.0",
+            "fileVersion": "8.4.3.0"
           }
         }
       },
@@ -1297,12 +1299,12 @@
       "path": "bootstrap/5.3.3",
       "hashPath": "bootstrap.5.3.3.nupkg.sha512"
     },
-    "BootstrapBlazor/8.4.2": {
+    "BootstrapBlazor/8.4.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-mq0QzqCmMVZ8v4NePd4BdLS9xlnxlW7JFlJndvYZ8LTvyuBzH/kbcay/3k5Hrmhwcpz3mR4ddsqn3bYOcS9Llw==",
-      "path": "bootstrapblazor/8.4.2",
-      "hashPath": "bootstrapblazor.8.4.2.nupkg.sha512"
+      "sha512": "sha512-fjIrISN47tRLTVKSaB5VU5ebFIDtd6ho6JD/vZrmucva+EcCfkNiAvCCd1CedQwu9MJSmsCUZvo0SOk+XKkFOg==",
+      "path": "bootstrapblazor/8.4.3",
+      "hashPath": "bootstrapblazor.8.4.3.nupkg.sha512"
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",

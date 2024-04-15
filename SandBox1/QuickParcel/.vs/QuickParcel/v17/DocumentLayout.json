@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\sandbox1\\quickparcel\\quickparcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\sandbox1\\quickparcel\\quickparcel\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\sandbox1\\quickparcel\\quickparcel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\sandbox1\\quickparcel\\quickparcel\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,47 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "QuickParcel\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "QuickParcel\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAmwFYAAACfBQAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Program.cs",
+              "RelativeDocumentMoniker": "QuickParcel\\Program.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Program.cs",
+              "RelativeToolTip": "QuickParcel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:19:27.187Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 119,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "QuickParcel\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Models\\Order.cs",
-              "RelativeToolTip": "QuickParcel\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:33:53.346Z",
+              "WhenOpened": "2024-04-15T09:45:42.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "QuickParcel\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Models\\Product.cs",
-              "RelativeToolTip": "QuickParcel\\Models\\Product.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwAoAAAAVAAAA",
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "QuickParcel\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\SandBox1\\QuickParcel\\QuickParcel\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "QuickParcel\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwFoAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:29:43.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T14:19:27.187Z"
             }
           ]
         }

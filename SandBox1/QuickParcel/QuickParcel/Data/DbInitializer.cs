@@ -84,4 +84,8 @@ namespace QuickParcel.Data
 }
 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+//EF creates an empty database
+//we will add a method that will be called after the creation of the database in order to populate the databse with the test data
+//there's a method called ensure created and it's used automaticlly to create the database
