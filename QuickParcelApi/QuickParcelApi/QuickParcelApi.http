@@ -1,0 +1,6 @@
+@QuickParcelApi_HostAddress = http://localhost:5139
+
+GET {{QuickParcelApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
