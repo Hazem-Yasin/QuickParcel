@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\quickparcel\\quickparcel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\quickparcel\\quickparcel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\quickparcel\\quickparcel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\quickparcel\\quickparcel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\quickparcel\\quickparcel\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "QuickParcel\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "QuickParcel\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T20:45:37.109Z",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "QuickParcel\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Models\\Product.cs",
+              "RelativeToolTip": "QuickParcel\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:38:10.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "QuickParcel\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "QuickParcel\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T20:45:34.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "QuickParcel\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "QuickParcel\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T20:45:24.217Z",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "QuickParcel\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Models\\Category.cs",
+              "RelativeToolTip": "QuickParcel\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:38:04.544Z",
               "EditorCaption": ""
             }
           ]

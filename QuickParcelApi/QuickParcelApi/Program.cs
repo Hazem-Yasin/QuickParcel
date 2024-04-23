@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using QuickParcelApi.Data;
+
 namespace QuickParcelApi
 {
     public class Program
@@ -7,7 +10,12 @@ namespace QuickParcelApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            var QuickParcelConnectionString = builder.Configuration.GetConnectionString("QuickParcelConnectionString");
+
             // Add services to the container.
+
+
+            builder.Services.AddDbContext<QuickParcelDbContext>(options => options.UseSqlServer(QuickParcelConnectionString));
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -23,7 +31,17 @@ namespace QuickParcelApi
                 app.UseSwaggerUI();
             }
 
-            app.UseHttpsRedirection();
+
+            using (var scope = app.Services.CreateScope()) {
+
+                var services = scope.ServiceProvider;
+                var QuickParcelContext = services.GetRequiredService<QuickParcelDbContext>();
+                QuickParcelContext.Database.EnsureCreated();
+                QuickParcelInitializer.Initialize(QuickParcelContext);
+
+            }
+
+                app.UseHttpsRedirection();
 
             app.UseAuthorization();
 

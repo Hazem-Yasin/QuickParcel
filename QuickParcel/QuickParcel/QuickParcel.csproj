@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-QuickParcel-72db3465-0bb8-4a3a-9a13-a84e9ebd4073</UserSecretsId>
   </PropertyGroup>
