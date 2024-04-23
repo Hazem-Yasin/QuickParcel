@@ -237,14 +237,6 @@ C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelA
 C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\QuickParcelApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\QuickParcelApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\QuickParcelApi.sourcelink.json
-C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\staticwebassets\msbuild.QuickParcelApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\staticwebassets\msbuild.build.QuickParcelApi.props
-C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuickParcelApi.props
-C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuickParcelApi.props
-C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\scopedcss\bundle\QuickParcelApi.styles.css
 C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\QuickPar.3EED5A06.Up2Date
 C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\QuickParcelApi.dll
 C:\Users\hazem\OneDrive\Documents\GitHub\QuickParcel\QuickParcelApi\QuickParcelApi\obj\Debug\net8.0\refint\QuickParcelApi.dll

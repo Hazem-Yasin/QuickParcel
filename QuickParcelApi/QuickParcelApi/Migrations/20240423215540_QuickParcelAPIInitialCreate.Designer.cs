@@ -11,7 +11,7 @@ using QuickParcelApi.Data;
 namespace QuickParcelApi.Migrations
 {
     [DbContext(typeof(QuickParcelDbContext))]
-    [Migration("20240422205648_QuickParcelAPIInitialCreate")]
+    [Migration("20240423215540_QuickParcelAPIInitialCreate")]
     partial class QuickParcelAPIInitialCreate
     {
         /// <inheritdoc />
