@@ -36,7 +36,9 @@ namespace QuickParcelApi
 
                 var services = scope.ServiceProvider;
                 var QuickParcelContext = services.GetRequiredService<QuickParcelDbContext>();
+                //issue is here 
                 QuickParcelContext.Database.EnsureCreated();
+                //issue is here
                 QuickParcelInitializer.Initialize(QuickParcelContext);
 
             }
