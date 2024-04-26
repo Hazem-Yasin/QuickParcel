@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\data\\quickparcelinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\data\\quickparcelinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\models\\category.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\models\\category.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\data\\quickparceldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\data\\quickparceldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\migrations\\20240423215540_quickparcelapiinitialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\migrations\\20240423215540_quickparcelapiinitialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\quickparcel\\end lec 118\\quickparcelapi\\quickparcelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B2187C-DA50-4B18-B006-63BF6FAFB1D8}|QuickParcelApi\\QuickParcelApi.csproj|solutionrelative:quickparcelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,21 +33,42 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "QuickParcelApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Models\\Category.cs",
+              "RelativeToolTip": "QuickParcelApi\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:18:42.821Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "QuickParcelApi\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "QuickParcelApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Title": "QuickParcelInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Data\\QuickParcelInitializer.cs",
+              "RelativeDocumentMoniker": "QuickParcelApi\\Data\\QuickParcelInitializer.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Data\\QuickParcelInitializer.cs",
+              "RelativeToolTip": "QuickParcelApi\\Data\\QuickParcelInitializer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:21:34.538Z",
+              "WhenOpened": "2024-04-24T20:05:15.735Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Program.cs",
+              "RelativeDocumentMoniker": "QuickParcelApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Program.cs",
+              "RelativeToolTip": "QuickParcelApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:02:18.14Z"
             },
             {
               "$type": "Document",
@@ -61,62 +78,21 @@
               "RelativeDocumentMoniker": "QuickParcelApi\\appsettings.json",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\appsettings.json",
               "RelativeToolTip": "QuickParcelApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T21:56:43.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240423215540_QuickParcelAPIInitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Migrations\\20240423215540_QuickParcelAPIInitialCreate.cs",
-              "RelativeDocumentMoniker": "QuickParcelApi\\Migrations\\20240423215540_QuickParcelAPIInitialCreate.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Migrations\\20240423215540_QuickParcelAPIInitialCreate.cs",
-              "RelativeToolTip": "QuickParcelApi\\Migrations\\20240423215540_QuickParcelAPIInitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T21:55:40.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Program.cs",
-              "RelativeDocumentMoniker": "QuickParcelApi\\Program.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Program.cs",
-              "RelativeToolTip": "QuickParcelApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:39:07.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T20:02:59.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "QuickParcelInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Data\\QuickParcelInitializer.cs",
-              "RelativeDocumentMoniker": "QuickParcelApi\\Data\\QuickParcelInitializer.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Data\\QuickParcelInitializer.cs",
-              "RelativeToolTip": "QuickParcelApi\\Data\\QuickParcelInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABWAAAA",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "QuickParcelApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "QuickParcelApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:10:04.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuickParcelDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Data\\QuickParcelDbContext.cs",
-              "RelativeDocumentMoniker": "QuickParcelApi\\Data\\QuickParcelDbContext.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\end lec 118\\QuickParcelApi\\QuickParcelApi\\Data\\QuickParcelDbContext.cs",
-              "RelativeToolTip": "QuickParcelApi\\Data\\QuickParcelDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:10:04.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T19:20:04.028Z"
             }
           ]
         }

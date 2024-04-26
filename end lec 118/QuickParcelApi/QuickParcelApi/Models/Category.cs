@@ -7,7 +7,7 @@ namespace QuickParcelApi.Models
 
         public int CategoryID { get; set; }
         [Required(ErrorMessage = "Category name is required")]
-        [StringLength(3)]
+        [StringLength(100)]
         public string CategoryName { get; set; }
         public ICollection<Product>? Products { get; set; }
 

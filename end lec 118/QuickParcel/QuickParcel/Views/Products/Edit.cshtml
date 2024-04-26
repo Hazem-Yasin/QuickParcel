@@ -9,6 +9,14 @@
 <h4>Product</h4>
 <hr />
 <div class="row">
+    <div class="form-group">
+        <label asp-for="CategoryID" class="control-label"></label>
+        <select asp-for="CategoryID" class="form-control" asp-items="@ViewBag.CategoryList">
+            <option value="">Select Category</option>
+        </select>
+        <span asp-validation-for="CategoryID" class="text-danger"></span>
+    </div>
+
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>

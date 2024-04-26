@@ -11,7 +11,7 @@ namespace QuickParcelApi
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            var QuickParcelConnectionString = builder.Configuration.GetConnectionString("QuickParcelConnectionString");
+            var QuickParcelConnectionString = builder.Configuration.GetConnectionString("QuickParcelConnection");
             // Add services to the container.
             builder.Services.AddDbContext<QuickParcelDbContext>(options => options.UseSqlServer(QuickParcelConnectionString));
             builder.Services.AddControllers().AddJsonOptions(options => options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
@@ -29,7 +29,9 @@ namespace QuickParcelApi
             {
                 var services = scope.ServiceProvider;
                 var QuickParcelContext = services.GetRequiredService<QuickParcelDbContext>();
+                //error is here
                 QuickParcelContext.Database.EnsureCreated();
+                //error is here
                 QuickParcelInitializer.Initialize(QuickParcelContext);
             }
             app.UseHttpsRedirection();

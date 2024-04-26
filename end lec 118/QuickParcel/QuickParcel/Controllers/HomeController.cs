@@ -4,6 +4,8 @@ using System.Diagnostics;
 
 namespace QuickParcel.Controllers
 {
+
+    //this is a controller it's used to control
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
