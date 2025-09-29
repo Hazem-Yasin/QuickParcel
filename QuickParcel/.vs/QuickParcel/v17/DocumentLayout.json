@@ -1,12 +1,55 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\QuickParcel\\QuickParcel\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\HazemYasin\\OneDrive - IBM\\Documents\\GitHub\\QuickParcel\\QuickParcel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|c:\\users\\hazemyasin\\onedrive - ibm\\documents\\github\\quickparcel\\quickparcel\\quickparcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9555496-FCE1-4C5F-9D3E-87C98A6DE5CD}|QuickParcel\\QuickParcel.csproj|solutionrelative:quickparcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HazemYasin\\OneDrive - IBM\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Program.cs",
+              "RelativeDocumentMoniker": "QuickParcel\\Program.cs",
+              "ToolTip": "C:\\Users\\HazemYasin\\OneDrive - IBM\\Documents\\GitHub\\QuickParcel\\QuickParcel\\QuickParcel\\Program.cs",
+              "RelativeToolTip": "QuickParcel\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:38:13.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
